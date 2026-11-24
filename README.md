@@ -20,7 +20,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live demo
-(add Streamlit Cloud URL here)
+https://share.streamlit.io/user/saxenanidhi1408
 
 ## Team
 Nidhi Patel (BCAN1CA24097), Nidhi Saxena (BCAN1CA24098)
