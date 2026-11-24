@@ -20,7 +20,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live demo
-https://share.streamlit.io/user/saxenanidhi1408
+https://cloud-cost-monitor-idtumjmkqxedeutzzzgdw5.streamlit.app/
 
 ## Team
 Nidhi Patel (BCAN1CA24097), Nidhi Saxena (BCAN1CA24098)
